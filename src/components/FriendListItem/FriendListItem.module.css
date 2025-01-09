@@ -1,0 +1,30 @@
+.item {
+  min-width: 120px;
+  text-align: center;
+  border: 4px solid #000000;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.item img {
+  width: 80px;
+  margin-bottom: 26px;
+}
+
+.itemTitle {
+  font-weight: 500;
+  font-size: 28px;
+}
+
+.online {
+  color: #098409;
+}
+
+.offline {
+  color: #ff100f;
+}
+
+p {
+  font-size: 30px;
+  font-weight: bold;
+}
